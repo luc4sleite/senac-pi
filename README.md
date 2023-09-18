@@ -55,6 +55,15 @@ Elaborar um sistema de gerenciamento de dados de um Centro Universitário utiliz
 #### Cadastro de novo Professor
 ![image](https://github.com/luc4sleite/senac-pi/assets/115735167/c3c62458-174b-43b9-959e-e14e09e5ee3d)
 
+#### Área do Professor Logado
+![image](https://github.com/luc4sleite/senac-pi/assets/115735167/2c4a67ae-8ce1-45ee-9b84-e97793215845)
+
+#### Consulta dos Cursos
+![image](https://github.com/luc4sleite/senac-pi/assets/115735167/a4e589e2-8663-4bc1-8659-73d1799063b3)
+
+#### Consulta das disciplinas
+![image](https://github.com/luc4sleite/senac-pi/assets/115735167/c8a938b8-9b64-45eb-972e-6cb20287686e)
+
 ### Área do Fornecedor
 #### Tela de Login
 ![image](https://github.com/luc4sleite/senac-pi/assets/115735167/6d4cb0f9-9bbe-45f6-8c43-bb7eb5886b26)
