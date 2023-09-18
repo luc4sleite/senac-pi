@@ -71,5 +71,9 @@ Elaborar um sistema de gerenciamento de dados de um Centro Universitário utiliz
 #### Cadastro de novo Fornecedor
 ![image](https://github.com/luc4sleite/senac-pi/assets/115735167/2234c83e-3144-4167-b2b8-7341cc99713e)
 
+#### Área do Fornecedor
+![image](https://github.com/luc4sleite/senac-pi/assets/115735167/a4a12329-03d3-4ba0-98c9-6a2434af6c54)
+
+
 
 
